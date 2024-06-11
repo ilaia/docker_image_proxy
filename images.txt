@@ -3,3 +3,4 @@ golang:1.22.4-alpine3.20
 drone/drone:2.24.0
 drone/drone-runner-docker:1.8.3
 gitea/gitea:1.22.0-rootless
+alpine:3.19
