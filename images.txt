@@ -11,6 +11,7 @@ gitea/gitea:1.22.0-rootless
 golang:1.22.5-alpine
 jenkins/jenkins:2.452.2-lts-jdk17
 mysql:8.0.38-debian
+mysql:8.0.38-oracle
 mysql:8.4.1-oracle
 nginx:1.26.1-alpine
 nginx:1.26.1-bookworm
