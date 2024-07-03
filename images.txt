@@ -6,7 +6,7 @@ drone/drone:2.24.0
 drone/drone-runner-docker:1.8.3
 gitea/gitea:1.22
 gitea/gitea:1.22.0-rootless
-golang:1.22.4-alpine3.20
+golang:1.22.5-alpine3.20
 jenkins/jenkins:2.452.2-lts-jdk17
 mysql:8.0.37-bookworm
 mysql:8.4.0-oracle
