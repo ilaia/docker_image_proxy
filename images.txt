@@ -2,6 +2,8 @@ alpine:3.17.8
 alpine:3.18.7
 alpine:3.19.2
 alpine:3.20.1
+bitnami/kafka:3.7.1
+bitnami/kafka:3.6.2
 debian:12.6
 debian:12.6-slim
 drone/drone:2.24.0
