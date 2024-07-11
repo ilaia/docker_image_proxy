@@ -9,8 +9,8 @@ debian:12.6-slim
 drone/drone:2.24.0
 drone/drone-runner-docker:1.8.3
 emqx/emqx:5.7.1
-gitea/gitea:1.22
-gitea/gitea:1.22.0-rootless
+gitea/gitea:1.22.1
+gitea/gitea:1.22.1-rootless
 golang:1.22.5-alpine
 jenkins/jenkins:2.452.2-lts-jdk17
 mysql:8.0.38-debian
