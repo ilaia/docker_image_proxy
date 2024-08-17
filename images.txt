@@ -23,6 +23,7 @@ openjdk:17-jdk-alpine
 openjdk:17-jdk-slim
 openjdk:11-jdk-slim
 openjdk:11-jre-slim
+php:7.4.33-fpm-alpine3.16
 redis:7.2.5-alpine
 redis:7.2.5-bookworm
 redis:6.2.14-alpine
