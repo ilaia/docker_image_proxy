@@ -8,12 +8,14 @@ debian:12.6
 debian:12.6-slim
 drone/drone:2.24.0
 drone/drone-runner-docker:1.8.3
+erikdubbelboer/phpredisadmin:1.21.1
 emqx/emqx:5.7.1
 frooodle/s-pdf:0.27.0-fat
 gitea/gitea:1.22.1
 gitea/gitea:1.22.1-rootless
 golang:1.22.5-alpine
 jenkins/jenkins:2.452.2-lts-jdk17
+mongo-express:1.0.2-20-alpine3.19
 mysql:8.0.38-debian
 mysql:8.0.38-oracle
 mysql:8.4.1-oracle
