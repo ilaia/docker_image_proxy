@@ -22,6 +22,7 @@ golang:1.22.7-alpine
 golang:1.23.1-alpine
 httpd:2.4.62-alpine
 jenkins/jenkins:2.452.2-lts-jdk17
+mongo:6.0.19-jammy
 mongo-express:1.0.2-20-alpine3.19
 mysql:8.0.38-debian
 mysql:8.0.38-oracle
