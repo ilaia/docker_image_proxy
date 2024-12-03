@@ -10,6 +10,8 @@ debian:12.6
 debian:12.6-slim
 drone/drone:2.24.0
 drone/drone-runner-docker:1.8.3
+dushixiang/guacd:1.5.5
+dushixiang/next-terminal:v1.3.9
 erikdubbelboer/phpredisadmin:1.21.1
 emqx/emqx:5.7.1
 frooodle/s-pdf:0.27.0-fat
