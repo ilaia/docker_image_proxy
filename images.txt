@@ -37,6 +37,10 @@ openjdk:17-jdk-alpine
 openjdk:17-jdk-slim
 openjdk:11-jdk-slim
 openjdk:11-jre-slim
+openjdk:8u342-slim
+openjdk:8u342-slim-bullseye
+openjdk:8u342
+openjdk:8u342-jdk
 php:5.5.38-zts-alpine
 php:5.5.38-fpm-alpine
 php:5.5.38-apache
